@@ -57,19 +57,19 @@ This project was created as part of my coursework to practice:
 __________________________________________________________________________________________________________________________________________
 ## Main Menu
 This is the main menu of the game.
-You can see the Play game button, Quit button, .
+You can see the Play game button, Quit button...
 ![img alt](https://github.com/Sbongeleni269/Unity_3D-Project_Csharp/blob/c8a3da90cb957ebc97f75ca094d1b3f939bbe6e8/images/Intro%20screen.png)
 
 ## Random Scene Image 
 This is just a random image showing players, non controllable player and controllable player.
-![img alt]( )
+![img alt](https://github.com/Sbongeleni269/Unity_3D-Project_Csharp/blob/22c89cb3620b6a46b6458514e3701d40ad19a618/images/Random%20Part.png)
 
 ## Level End (Game Over)
 At the end of the game a game over loss condition is triggered if you lost
-![img alt]( )
+![img alt](https://github.com/Sbongeleni269/Unity_3D-Project_Csharp/blob/22c89cb3620b6a46b6458514e3701d40ad19a618/images/Game%20over%20Screen.png)
 
 ## Game end (You Won)
 If you defeated the enemy you will win.
-![img alt]( )
+![img alt](https://github.com/Sbongeleni269/Unity_3D-Project_Csharp/blob/22c89cb3620b6a46b6458514e3701d40ad19a618/images/Win%20Condition.png)
 
 
