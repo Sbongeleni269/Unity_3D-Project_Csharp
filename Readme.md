@@ -1,4 +1,4 @@
-# Unity_3D_Project
+# <u>Unity_3D_Project</u>
 
 # Vengeance – 3D Action Game (Unity)
 
@@ -10,6 +10,7 @@ To save his critically injured daughter, John infiltrates a mafia estate, defeat
 crime boss to secure the funds needed for her treatment. 
 This project demonstrates key computer graphics and game-development concepts including modelling, 
 rendering, animation, shaders, and AI behaviour systems.
+******************************************************************************************************************************************
 
 # Game Features
 
@@ -19,11 +20,39 @@ ammo and health kits. Interactive environments (doors, pickups, scripted events)
 
 Game Levels -Farm Introduces controls, movement, and basic interaction mechanics. Main combat zone featuring guard patrols,
 cover systems, and tactical firefights. Mafia Mansion Interior Final arena containing the boss fight and the game’s ending sequence.
+******************************************************************************************************************************************
 
-Controls (PC) ActionKeyMoveW A S DSprintLeft ShiftCrouchCAimRight Mouse ButtonShootLeft Mouse ButtonReloadRMelee / InteractFPick Up / InteractEWeapon Switch1
+# Controls (PC) 
+-ActionKeyMoveW A S DSprintLeft ShiftCrouchCAimRight Mouse ButtonShootLeft Mouse ButtonReloadRMelee / InteractFPick Up / InteractEWeapon Switch1
+******************************************************************************************************************************************
 
 # Technologies Used
+-Unity Game Engine
+-C#
+-Blender
+******************************************************************************************************************************************
 
-Unity Game Engine C# Unity NavMesh (AI Navigation) Unity Animation System Custom shaders and lighting 3D modelling from first principles (selected assets)
-C#
-Blender (To create some game objects)
+# Features
+-3D interactive environment
+-Player movement and shooting mechanics
+-Enemy targets
+-Custom 3D objects created in Blender
+-Basic game physics and collision detection
+******************************************************************************************************************************************
+
+# Project Context
+This project was created as part of my coursework to practice:
+
+-C++ programming
+-GUI development with SFML
+-Story branching and game design
+-Group Members: Varushka Dayal Luyanda Mhlongo Londeka Mswane Olwethu Lushozi Sithembelo Meyiwa Nhlanhla Zama Sbongeleni Magudulela -Xolani Xulu Zolile Mzobe
+******************************************************************************************************************************************
+
+# Screenshots & Gameplay
+__________________________________________________________________________________________________________________________________________
+# Main Menu
+This is the main menu of the game.
+You can see the Play button and the How to Play button.
+![alt text]
+
