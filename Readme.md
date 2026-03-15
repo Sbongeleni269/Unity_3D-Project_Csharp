@@ -18,21 +18,22 @@ Third-person over-the-shoulder gameplay Story-driven revenge narrative Stealth a
 AI with patrol, detection, pursuit, and combat behaviours. Multi-stage boss battle system. Inventory system with limited 
 ammo and health kits. Interactive environments (doors, pickups, scripted events).
 
-Game Levels -Farm Introduces controls, movement, and basic interaction mechanics. Main combat zone featuring guard patrols,
-cover systems, and tactical firefights. Mafia Mansion Interior Final arena containing the boss fight and the game’s ending sequence.
 ******************************************************************************************************************************************
 
 # Controls (PC) 
+
 -ActionKeyMoveW A S DSprintLeft ShiftCrouchCAimRight Mouse ButtonShootLeft Mouse ButtonReloadRMelee / InteractFPick Up / InteractEWeapon Switch1
 ******************************************************************************************************************************************
 
 # Technologies Used
+
 -Unity Game Engine
 -C#
 -Blender
 ******************************************************************************************************************************************
 
 # Features
+
 -3D interactive environment
 -Player movement and shooting mechanics
 -Enemy targets
@@ -41,12 +42,12 @@ cover systems, and tactical firefights. Mafia Mansion Interior Final arena conta
 ******************************************************************************************************************************************
 
 # Project Context
+
 This project was created as part of my coursework to practice:
 
--C++ programming
--GUI development with SFML
--Story branching and game design
--Group Members: Varushka Dayal Luyanda Mhlongo Londeka Mswane Olwethu Lushozi Sithembelo Meyiwa Nhlanhla Zama Sbongeleni Magudulela -Xolani Xulu Zolile Mzobe
+-C# programming
+-3Dgame design
+-Group Members: Sbongeleni Magudulela, Sokwani Ntombela, Joel Ojong, Nsizwaziphelele Nyawo, Thandokazi Phunzana
 ******************************************************************************************************************************************
 
 # Screenshots & Gameplay
@@ -54,5 +55,5 @@ ________________________________________________________________________________
 # Main Menu
 This is the main menu of the game.
 You can see the Play button and the How to Play button.
-![alt text]
+![img alt](https://github.com/Sbongeleni269/Unity_3D-Project_Csharp/blob/c8a3da90cb957ebc97f75ca094d1b3f939bbe6e8/images/Intro%20screen.png)
 
