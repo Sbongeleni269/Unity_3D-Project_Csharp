@@ -2,7 +2,7 @@
 
 # Vengeance – 3D Action Game (Unity)
 
-# Overview
+## Overview
 
 Vengeance is a story-driven third-person action game developed in Unity. 
 The game follows John Riker, an ex-military soldier seeking revenge after a powerful crime lord destroys his family. 
@@ -12,7 +12,7 @@ This project demonstrates key computer graphics and game-development concepts in
 rendering, animation, shaders, and AI behaviour systems.
 ******************************************************************************************************************************************
 
-# Game Features
+## Game Features
 
 Third-person over-the-shoulder gameplay Story-driven revenge narrative Stealth and cover-based combat mechanics Enemy
 AI with patrol, detection, pursuit, and combat behaviours. Multi-stage boss battle system. Inventory system with limited 
@@ -20,40 +20,56 @@ ammo and health kits. Interactive environments (doors, pickups, scripted events)
 
 ******************************************************************************************************************************************
 
-# Controls (PC) 
+## Controls (PC) 
 
--ActionKeyMoveW A S DSprintLeft ShiftCrouchCAimRight Mouse ButtonShootLeft Mouse ButtonReloadRMelee / InteractFPick Up / InteractEWeapon Switch1
+- ActionKeyMoveW A S DSprintLeft ShiftCrouchCAimRight Mouse ButtonShootLeft Mouse ButtonReloadRMelee / InteractFPick Up / InteractEWeapon Switch1
 ******************************************************************************************************************************************
 
-# Technologies Used
+## Technologies Used
 
--Unity Game Engine
--C#
--Blender
+- Unity Game Engine
+- C#
+- Blender
+
 ******************************************************************************************************************************************
 
-# Features
+## Features
 
--3D interactive environment
--Player movement and shooting mechanics
--Enemy targets
--Custom 3D objects created in Blender
--Basic game physics and collision detection
+- 3D interactive environment
+- Player movement and shooting mechanics
+- Enemy targets
+- Custom 3D objects created in Blender
+- Basic game physics and collision detection
+
 ******************************************************************************************************************************************
 
-# Project Context
+## Project Context
 
 This project was created as part of my coursework to practice:
 
--C# programming
--3Dgame design
--Group Members: Sbongeleni Magudulela, Sokwani Ntombela, Joel Ojong, Nsizwaziphelele Nyawo, Thandokazi Phunzana
+- C# programming
+- 3Dgame design
+- Group Members: Sbongeleni Magudulela, Sokwani Ntombela, Joel Ojong, Nsizwaziphelele Nyawo, Thandokazi Phunzana
+
 ******************************************************************************************************************************************
 
-# Screenshots & Gameplay
+## Screenshots & Gameplay
 __________________________________________________________________________________________________________________________________________
-# Main Menu
+## Main Menu
 This is the main menu of the game.
-You can see the Play button and the How to Play button.
+You can see the Play game button, Quit button, .
 ![img alt](https://github.com/Sbongeleni269/Unity_3D-Project_Csharp/blob/c8a3da90cb957ebc97f75ca094d1b3f939bbe6e8/images/Intro%20screen.png)
+
+## Random Scene Image 
+This is just a random image showing players, non controllable player and controllable player.
+![img alt]( )
+
+## Level End (Game Over)
+At the end of the game a game over loss condition is triggered if you lost
+![img alt]( )
+
+## Game end (You Won)
+If you defeated the enemy you will win.
+![img alt]( )
+
 
